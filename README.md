@@ -11,7 +11,7 @@ The **iPhone Clone Web Calculator** replicates the sleek, user-friendly interfac
 ---
 
 ## Table of Contents
-https://abihuagede.github.io/IPhone_Web_Calculator/index.html
+https://abihuagede.github.io/IPhone_Web_Calculator/index(1).html
 - [Features](#features)
 - [Live Demo](#live-demo)
 - [Technologies Used](#technologies-used)
